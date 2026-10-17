@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int a, b;
+        int a, b;   // declare the data type
         
         try
         {
